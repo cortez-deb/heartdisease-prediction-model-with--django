@@ -1,0 +1,9 @@
+# Django React Boilerplate
+pip install django
+pip install djangorestframework
+python manage.py migrate
+pip install numpy
+pip install scikit-learn
+pip install django-cors-headers 
+python manage.py runserver     
+      
